@@ -1,7 +1,0 @@
-pulp
-streamlit
-plotly
-pandas
-openpyxl
-kaleido
-
