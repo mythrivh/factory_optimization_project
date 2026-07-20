@@ -30,7 +30,7 @@ factory_optimization_project/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 Clone the repository:
 ```bash
 git clone https://github.com/mythrivh/my_project.git
